@@ -1,1 +1,1 @@
-# MachineGun
+# MachineGun.eth
